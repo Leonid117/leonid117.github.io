@@ -2,7 +2,7 @@
     "applinks": {
         "details": [
             {
-                "appIDs": [ "ABCDE12345.com.example.app", "ABCDE12345.com.example.app2" ],
+                "appIDs": ["GYB67KYAAB.com.distill.reels"],
                 "components": [
                     {
                         "/": "/u/*"
