@@ -3,7 +3,11 @@
         "apps": [],
         "details": [{
             "appID": "GYB67KYAAB.com.distill.reels",
-            "paths": ["*"]
+            "paths": [
+                "/reels/*"
+                "/users/*"
+                "/scripts/*"
+            ]
         }]
     }
 }
