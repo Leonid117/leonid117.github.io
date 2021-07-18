@@ -5,13 +5,16 @@
                 "appIDs": ["GYB67KYAAB.com.distill.reels"],
                 "components": [
                     {
-                        "/": "/u/*"
+                        "/": "/u/*",
+                        "comment": "Users"
                     },
                     {
-                        "/": "/r/*"
+                        "/": "/r/*",
+                        "comment": "Reels"
                     },
                     {
-                        "/": "/a/*"
+                        "/": "/a/*",
+                        "comment": "Scripts"
                     }
                 ]
             }
