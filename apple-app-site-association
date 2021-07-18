@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "GYB67KYAAB.com.distill.reels",
+            "paths": [
+                "/reels/*"
+                "/users/*"
+                "/scripts/*"
+            ]
+        }]
+    }
+}
